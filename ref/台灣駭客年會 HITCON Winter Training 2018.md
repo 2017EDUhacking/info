@@ -1,4 +1,6 @@
 # 台灣駭客年會 HITCON Winter Training 2018
+
+https://hitcon.kktix.cc/events/hitcon-winter-training-2018
 ```
 類別一：Blockchain
 智能合約攻擊與防禦態勢
